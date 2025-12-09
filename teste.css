@@ -41,14 +41,14 @@ body{
   color: #f5e8d7;
 }
 
-body::before {
+/* body::before {
   content: "";
   position: fixed;
   inset: 0;
   background: url('https://i.imgur.com/U4g02Rf.jpg') center/cover;
   opacity: 0.15;
   pointer-events: none;
-}
+} */
 
 .wrap{
   width: 100%;
