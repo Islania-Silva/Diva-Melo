@@ -28,7 +28,7 @@ html,body{ height:100%; }
   border-radius: 8px;
   font-size: 14px;
   cursor: pointer;
-  z-index: 9999;
+  z-index: 9999;      /*Isso garante que o modal fique acima do restante da interface.*/
   opacity: .85;
   transition: .3s;
 }
